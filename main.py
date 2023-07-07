@@ -20,8 +20,8 @@ parser.add_argument('-f', type=str, default=None, required=True, help='输入文
 args = parser.parse_args()
 
 # 设置 API 密钥
-api_key = '6c02eac4e28f451184fb35a27e1d57f4'
-api_secret = 'f829bebfab974fba9888f099b73b768b'
+api_key = ''
+api_secret = ''
 
 # 遍历文件夹中的图像文件
 for root, dirs, files in os.walk(args.f):
