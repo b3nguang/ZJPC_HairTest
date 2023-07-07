@@ -2,7 +2,7 @@
 
 ```
 api_key = ''
-api_secret = ''#填入自己的apikey 和apiscret
+api_secret = ''#填入自己的apikey 和apisecret
 ```
 
 ```
